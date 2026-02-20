@@ -105,8 +105,8 @@ Key reflections:
 
 Compared to implementing everything in a notebook, this structure feels closer to real-world ML workflows.
 
-## (Valfritt) GitHub-repo
+## GitHub-repo
 
 Projektet kan även hittas på GitHub:
 
-[](https://github.com/andoreasuuu/L1_Robust_Miljohantering)
+[](https://github.com/andoreasuuu/L1_Robust_Miljohantering/tree/k2)
