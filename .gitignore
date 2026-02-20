@@ -10,7 +10,8 @@ wheels/
 .venv
 
 # K2
-/data/
+data/*
+!data/*.dvc
 artifacts/
 reports/
 runs.csv
